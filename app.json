@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/KOT-BOTS-REPO/KOT-FILE-STORE-BOT",
+  "repository": "https://github.com/KOT-BOTS-REPO/KOT-FILE-SHARING-BOT",
   "logo": "https://telegra.ph/file/ba0abc119d4142ae54111.jpg",
   "env": {
     "TG_BOT_TOKEN": {
